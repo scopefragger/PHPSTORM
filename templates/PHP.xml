@@ -17,4 +17,28 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="_func" value="public function $1$($2$){&#10;&#10;    $3$&#10;    &#10;    return $4$;&#10;&#10;}" description="public function" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="camelCase(String)" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="false" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="_pfunc" value="protected function $1$($2$){&#10;&#10;    $3$&#10;    &#10;    return $4$;&#10;&#10;}" description="public function" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="camelCase(String)" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="false" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="$" value="$this-&gt;$1$" description="This" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

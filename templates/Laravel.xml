@@ -1,0 +1,13 @@
+<templateSet group="Laravel">
+  <template name="lmodel" value="&lt;?php&#10;&#10;namespace App\Models;&#10;&#10;use Illuminate\Database\Eloquent\Model;&#10;&#10;class $1$ extends Models&#10;{&#10;    protected $table = '$2$';&#10;    &#10;    public $timestamps = $3$;&#10;    &#10;    protected $fillable = [$4$];&#10;    &#10;    protected $guarded = [$5$];&#10;&#10;    protected $events = [];&#10;&#10;    /**&#10;     * The &quot;booting&quot; method of the model.&#10;     *&#10;     * @return void&#10;     */&#10;    protected static function boot()&#10;    {&#10;        parent::boot();&#10;    }&#10;&#10;    /**&#10;     * Get the validation rules that apply to the request.&#10;     *&#10;     * @return array&#10;     */&#10;    public function rules()&#10;    {&#10;        return [&#10;            $6$&#10;        ];&#10;    }&#10;}&#10;" description="LaravelModel" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="false" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="6" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
