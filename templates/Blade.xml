@@ -1,0 +1,7 @@
+<templateSet group="Blade">
+  <template name="trans" value="{{trans('lang.$SELECTION$')}}" shortcut="SPACE" description="trans" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

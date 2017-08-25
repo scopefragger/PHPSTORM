@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="htm" type="HTML" />
+      <mapping pattern="module-text-image.blade.php" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.afc" type="PLAIN_TEXT" />
+      <mapping pattern="contact" type="PLAIN_TEXT" />
+      <mapping pattern="WeatherIconphp" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
+      <mapping ext="ht" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="htm" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
