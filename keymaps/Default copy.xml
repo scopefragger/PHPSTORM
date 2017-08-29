@@ -3,5 +3,17 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="FindPrevious" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="ThePlugin.Bamboo.OpenBuild" />
   <action id="ThePlugin.ShowProjectSettings" />
+  <action id="Tool_External Tools_php-cs-fixer">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
 </keymap>
