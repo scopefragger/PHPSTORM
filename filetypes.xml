@@ -9,6 +9,7 @@
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="ht" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="hym" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="htm" type="Twig" />
     </extensionMap>
