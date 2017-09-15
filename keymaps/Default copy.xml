@@ -2,6 +2,7 @@
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
+  <action id="Console.TableResult.Reload" />
   <action id="FindPrevious" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
@@ -11,9 +12,18 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="Refresh" />
+  <action id="ReloadInBrowserAction">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="ThePlugin.Bamboo.OpenBuild" />
+  <action id="ThePlugin.Bamboo.RunBuild" />
   <action id="ThePlugin.ShowProjectSettings" />
   <action id="Tool_External Tools_php-cs-fixer">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="hg4idea.QRefresh" />
 </keymap>
