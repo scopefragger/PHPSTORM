@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a16ff4a2-623c-46e7-aade-6202f4ac5baf" name="Ohpopsi" url="http://ohpopsi.dev/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
