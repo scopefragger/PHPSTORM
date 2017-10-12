@@ -8,6 +8,7 @@
       <mapping pattern="WeatherIconphp" type="PLAIN_TEXT" />
       <mapping ext="kmz" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping ext="kml" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="ht" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
