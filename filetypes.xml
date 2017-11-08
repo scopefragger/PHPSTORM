@@ -3,6 +3,8 @@
     <extensionMap>
       <removed_mapping ext="htm" type="HTML" />
       <mapping pattern="module-text-image.blade.php" type="PLAIN_TEXT" />
+      <mapping pattern="javascript" type="PLAIN_TEXT" />
+      <mapping pattern="stylesheets" type="PLAIN_TEXT" />
       <mapping pattern=".env.afc" type="PLAIN_TEXT" />
       <mapping pattern="contact" type="PLAIN_TEXT" />
       <mapping pattern="WeatherIconphp" type="PLAIN_TEXT" />
