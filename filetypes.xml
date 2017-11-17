@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="htm" type="HTML" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="module-text-image.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="javascript" type="PLAIN_TEXT" />
       <mapping pattern="stylesheets" type="PLAIN_TEXT" />
