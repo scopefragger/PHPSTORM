@@ -7,6 +7,12 @@
           <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="HIGHLIGHTING_LEVEL" value="ADVANCED" />
+          <option name="SHOW_WHITESPACES" value="true" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>
