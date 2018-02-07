@@ -13,10 +13,6 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="Refresh" />
-  <action id="ReloadInBrowserAction">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
-  <action id="Replace" />
   <action id="Rerun" />
   <action id="ThePlugin.Bamboo.OpenBuild" />
   <action id="ThePlugin.Bamboo.RunBuild" />
