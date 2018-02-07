@@ -59,7 +59,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="class" value="&#10;namespace $2$;&#10;&#10;class $1${&#10;&#10;    /**&#10;     * constructor.&#10;     */&#10;    public function __construct(){&#10;&#10;&#10;    }&#10;&#10;    &#10;&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="class" value="&#10;namespace $2$;&#10;&#10;class $1${&#10;&#10;    /**&#10;     * constructor.&#10;     */&#10;    public function __construct(){&#10;&#10;&#10;    }&#10;&#10;    &#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="2" expression="classNameComplete()" defaultValue="ClassName" alwaysStopAt="true" />
     <variable name="1" expression="" defaultValue="Your\Class\Namespace" alwaysStopAt="true" />
     <context>
